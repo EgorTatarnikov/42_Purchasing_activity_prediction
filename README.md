@@ -1,0 +1,1 @@
+# 42_Purchasing_activity_prediction
